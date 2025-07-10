@@ -10,7 +10,7 @@ This repo contains my personal, reproducible, and minimal dotfiles setup using [
 - 🎛️ **Window Manager**: Hyprland + Waybar + Wofi
 - ✍️ **Editor**: Neovim (Lua config)
 - 💻 **Terminal**: Kitty, Alacritty
-- 🐟 **Shell**: Fish
+- 🐟 **Shell**: zsh
 - 🎵 **Theming**: Spicetify for Spotify, Mako for notifications
 - 📊 **TUI Tools**: btop, tmux, slides
 - 🚀 Managed with [`chezmoi`](https://www.chezmoi.io/) for reproducibility and syncing
